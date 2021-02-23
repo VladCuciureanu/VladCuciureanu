@@ -15,7 +15,7 @@ Since an early age I've been trying to extend my understanding of computers by t
 ### What I'm focusing on
 
 &nbsp;&nbsp; Currently I'm working on Lyra: an open-source audio streaming server with ease of use and audio fidelity in mind.<br />
-BTW, if you´re interested in helping/checking Lyra out, you can find it [here](https://github.com/VladCuciureanu/lyra).
+By the way... If you´re interested in helping/checking Lyra out, you can find it [here](https://github.com/VladCuciureanu/lyra).
 
 ### My projects
 <!-- PROJECT-LIST:START -->
