@@ -6,7 +6,7 @@ Audiophile. Bookworm. Geek. A highly motivated individual who is eager to learn<
 </p>
 </hr>
 <hr>
-I work as a full-stack developer. I´m based in Cluj-Napoca, Romania.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; I work as a full-stack developer. I´m based in Cluj-Napoca, Romania.<br>
 Since an early age I've been trying to extend my understanding of computers by tinkering and programming. And I did, with every project I've taken on (and abandoned 😩). Now, I'm hoping to make this world a little better through developing (and contributing to) open-source solutions. ✨😍
 
 ### What I'm focusing on 👩🏻‍💻
