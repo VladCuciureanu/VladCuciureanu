@@ -15,13 +15,13 @@ Since an early age I've been trying to extend my understanding of computers by t
 ### What I'm focusing on
 
 &nbsp;&nbsp; Currently I'm working on <u><b>Lyra</b></u>: an open-source audio streaming server with ease of use and audio fidelity in mind.
-By the way... If you´re interested in helping/checking Lyra out, you can find it [here](https://github.com/VladCuciureanu/lyra).
+By the way... If you´re interested in helping/checking Lyra out, you can find it [here](https://github.com/VladCuciureanu/Lyra).
 
 ### My projects
 <!-- PROJECT-LIST:START -->
-- [Lyra](https://github.com/VladCuciureanu/lyra) - Self-hosted audio streaming server for audiophiles
-- [Garlic Bread](https://github.com/VladCuciureanu/garlic-bread) - Discord bot for deepfried zoomers
-- [Catfetch](https://github.com/VladCuciureanu/catfetch) - Who ordered the neofetch with extra cats?
+- [Lyra](https://github.com/VladCuciureanu/Lyra) - Self-hosted audio streaming server for audiophiles
+- [Garlic Bread](https://github.com/VladCuciureanu/GarlicBread) - Discord bot for deepfried zoomers
+- [CatFetch](https://github.com/VladCuciureanu/CatFetch) - Who ordered the neofetch with extra cats?
 <!-- - [Khora](https://github.com/VladCuciureanu/khora) -->
 <!-- PROJECT-LIST:END -->
 
