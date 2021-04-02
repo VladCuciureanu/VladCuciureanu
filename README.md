@@ -9,8 +9,7 @@ Audiophile. Bookworm. Geek. A highly motivated individual who is eager to learn<
 
 ### Who am I?
 
-&nbsp;&nbsp; I'm a full-stack developer based in Cluj-Napoca, Romania.<br>
-Since an early age I've been trying to extend my understanding of computers by tinkering and programming. And I did, with every project I've taken on (and abandoned 😩). Now, I'm hoping to make this world a little better through developing (and contributing to) open-source solutions. ✨😍
+&nbsp;&nbsp; I'm a full-stack developer based in Cluj-Napoca, Romania. Since an early age I've been trying to extend my understanding of computers by tinkering and programming. And I did, with every project I've taken on (and abandoned 😿). Now, I'm hoping to make this world a little better through developing (and contributing to) open-source solutions. ✨😻
 
 ### What I'm focusing on
 
