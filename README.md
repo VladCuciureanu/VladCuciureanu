@@ -13,11 +13,13 @@ Audiophile. Bookworm. Geek. A highly motivated individual who is eager to learn<
 
 ### What I'm focusing on
 
-&nbsp;&nbsp; Currently I'm working on <u><b>Lyra</b></u>: an open-source audio streaming server with ease of use and audio fidelity in mind.
-By the way... If you´re interested in helping/checking Lyra out, you can find it [here](https://github.com/VladCuciureanu/Lyra).
+&nbsp;&nbsp; Currently I'm working on <u><b>Hymn</b></u>: an open-source, non-profit, free access christian music tabs repository with user friendliness and ease of use in mind. If, by chance, you're interested in helping/checking Hymn out, you can find it [here](https://github.com/VladCuciureanu/Hymn).
+<!-- &nbsp;&nbsp; Currently I'm working on <u><b>Lyra</b></u>: an open-source audio streaming server with ease of use and audio fidelity in mind.
+By the way... If you´re interested in helping/checking Lyra out, you can find it [here](https://github.com/VladCuciureanu/Lyra). -->
 
 ### My projects
 <!-- PROJECT-LIST:START -->
+- [Hymn](https://github.com/VladCuciureanu/Hymn) - Non-profit, curated repository of christian music tabs.
 - [Lyra](https://github.com/VladCuciureanu/Lyra) - Self-hosted audio streaming server for audiophiles
 - [Garlic Bread](https://github.com/VladCuciureanu/GarlicBread) - Discord bot for deepfried zoomers
 - [CatFetch](https://github.com/VladCuciureanu/CatFetch) - Who ordered the neofetch with extra cats?
@@ -25,4 +27,4 @@ By the way... If you´re interested in helping/checking Lyra out, you can find i
 <!-- PROJECT-LIST:END -->
 
 
-<!--**[vlad.dev](https://www.vlad.dev/)**-->
+**[vladinski.dev](https://vladinski.dev/)**
