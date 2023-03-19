@@ -12,6 +12,8 @@ Blessed husband of a <i>brilliant</i> woman.
 <details>
 <summary>Click here to find out</summary>
 
+---
+
 &nbsp;&nbsp;I'm a <i>full-stack developer</i> based in <i>Cluj-Napoca, Romania</i>.
 
 - ✨ I'm a very fast learner and an open-source software creator
