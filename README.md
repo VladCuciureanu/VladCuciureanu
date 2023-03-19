@@ -32,9 +32,9 @@ Previously a Lego addict, I liked building things. When I discovered how versati
 
 ## 📫 Contact
 
-- ✉️ : [`vlad.cuciureanu@pm.me`][mail]
-- 🌐 : [`vladinski.md`][website]
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" align="center" width="20px" height="16px"> : [`@VladCuciureanu_`][twitter]
+✉️ : [`vlad.cuciureanu@pm.me`][mail]<br/>
+🌐 : [`vladinski.md`][website]<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" align="center" width="20px" height="16px"> : [`@VladCuciureanu_`][twitter]
 
 ## 🔭 Projects
 
