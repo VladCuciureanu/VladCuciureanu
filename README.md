@@ -8,7 +8,9 @@ Blessed husband of a <i>brilliant</i> woman.
 </p>
 </hr>
 
-## 🤔 Who am I?
+<h2>🤔 Who am I?</h2>
+<details>
+<summary>Click here to find out</summary>
 
 &nbsp;&nbsp;I'm a <i>full-stack developer</i> based in <i>Cluj-Napoca, Romania</i>.
 
@@ -29,6 +31,7 @@ Previously a Lego addict, I liked building things. When I discovered how versati
 - Passionate about everything computers
 - Over 4 years of experience with **JavaScript** and **[`TypeScript`]**
 - Likes learning new things and working in teams 🤓
+</details>
 
 ## 📫 Contact
 
