@@ -34,7 +34,8 @@ Previously a Lego addict, I liked building things. When I discovered how versati
 
 ✉️ : [`vlad.cuciureanu@pm.me`][mail]<br/>
 🌐 : [`vladinski.md`][website]<br/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" align="center" width="20px" height="16px"> : [`@VladCuciureanu_`][twitter]
+
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" align="center" width="20px" height="16px"> : [`@VladCuciureanu_`][twitter] -->
 
 ## 🔭 Projects
 
@@ -47,8 +48,9 @@ You can see everything I'm working on by exploring [`my repositories`][repos].
 
 <!----------------- LINKS --------------->
 
+<!-- [twitter]: https://twitter.com/VladCuciureanu_ -->
+
 [repos]: https://github.com/VladCuciureanu?tab=repositories
-[twitter]: https://twitter.com/VladCuciureanu_
 [mail]: mailto:vlad.cuciureanu@pm.me
 [website]: https://vladinski.md
 [`typescript`]: https://www.typescriptlang.org/
