@@ -2,7 +2,7 @@
 
 Hi there! I'm Vlad.
 
-I'm a christian, full-stack developer currently self-employed at [Faith Software](https://faith.software).
+I'm a christian, full-stack developer currently self-employed at Faith Software.
 
 [Faith Software &rarr;](https://faith.software) <br />
 [Personal Website &rarr;](https://vladcuciureanu.com/) <br />
