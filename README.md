@@ -2,7 +2,7 @@
 
 Hi there! I'm Vlad.
 
-My main focus these days is building web products as a contractor.  
+My main focus these days is building web products at [Vocode](https://vocode.dev).  
 In my free time, I'm also working on various personal projects.  
 [Check them out below &darr;](https://github.com/VladCuciureanu?tab=repositories)
 
