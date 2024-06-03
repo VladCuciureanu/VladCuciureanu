@@ -8,6 +8,5 @@ In my free time, I'm also working on various personal projects.
 
 When I'm not at the computer, I'm usually hanging out with my wife, enjoying a cold brew tonic, or studying audio synthesis.
 
-<!--[Faith Software &rarr;](https://faith.software) <br />-->
-[Personal Website &rarr;](https://vladcuciureanu.com/) <br />
-[Contact Me &rarr;](mailto:vlad.cuciureanu@pm.me)
+[Personal Website &rarr;](https://vlad.cuciureanu.me/) <br />
+[Contact Me &rarr;](mailto:vlad@cuciureanu.me)
